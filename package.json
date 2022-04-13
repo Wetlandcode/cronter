@@ -5,7 +5,8 @@
   "author": "Wetland Code",
   "main": "node xp.js",
   "scripts": {
-    "run": "node xp.js"
+    "run": "node xp.js",
+    "start": "node xp.js"
   },
   "dependencies": {
     "amethyste-api": "^1.1.5",
