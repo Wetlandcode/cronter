@@ -1,1 +1,1 @@
-Worker: node xp.js
+Worker: npm start
