@@ -6,7 +6,7 @@
   "main": "node xp.js",
   "scripts": {
     "test": "npm install",
-    "start": "npm start"
+    "start": "node xp.js"
   },
   "dependencies": {
     "amethyste-api": "^1.1.5",
