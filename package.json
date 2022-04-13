@@ -5,7 +5,7 @@
   "author": "Wetland Code",
   "main": "node xp.js",
   "scripts": {
-    "run": "node xp.js",
+    "run": "mom start",
     "start": "node xp.js"
   },
   "dependencies": {
